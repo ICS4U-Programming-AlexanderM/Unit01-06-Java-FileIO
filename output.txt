@@ -1,0 +1,11 @@
+19
+Error: "Hello" is not a valid integer.
+7
+Error: "string" is not a valid integer.
+Error: Empty line found.
+0
+Error: "3.4" is not a valid integer.
+4
+2006653
+0
+Error: "@" is not a valid integer.
